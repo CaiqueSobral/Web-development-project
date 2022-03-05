@@ -12,7 +12,7 @@ body {
 }
 
 .container {
-  width: 700px;
+  width: 99%;
   margin: 0 auto;
 }
 
@@ -210,9 +210,17 @@ h2::after {
   border-radius: 50%;
 }
 
-/* h1 {
+h1 {
   float: left;
 }
 nav {
   float: right;
-} */
+}
+.clear {
+  clear: both;
+}
+.clear-fix::after {
+  content: "";
+  clear: both;
+  display: block;
+}
