@@ -41,6 +41,7 @@ Primary:
 
 # - Greys:
 
+#6f6f6f
 #555
 #333
 
