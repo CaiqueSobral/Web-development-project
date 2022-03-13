@@ -37,6 +37,8 @@ Primary:
 
 # - Accents:
 
+#51cf66
+
 # - Greys:
 
 #555
