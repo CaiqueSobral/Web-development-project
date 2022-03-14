@@ -35,6 +35,7 @@ Primary:
 
 - shades:
   #cf711f
+  #45260a
 
 # - Accents:
 
