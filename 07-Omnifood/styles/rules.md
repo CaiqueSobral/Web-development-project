@@ -31,6 +31,7 @@ Primary:
 - tints:
   #fdf2e9
   #fae5d3
+  #eb984e
 
 - shades:
   #cf711f
@@ -47,9 +48,12 @@ Primary:
 
 ## --- 05 SHADOWS
 
+0 2.4rem 4.8rem rgba(0, 0, 0, 0.075)
+
 ## --- 06 BORDER RADIUS
 
 Default: 9px
+Medium-High: 11px
 
 ## --- 07 WHITESPACE
 
