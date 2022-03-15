@@ -16,6 +16,7 @@ Bold: 700
 Default: 1
 Small: 1.05
 Medium: 1.2
+Large: 1.8
 Paragraph: 1.6
 
 # - Letter Spacing -
