@@ -1,3 +1,3 @@
-# html-css-course
+# Web Development Project
 
-Just a course for front-end
+Repo used for learning web development from its bascis, with HTML + CSS and JavaScript
