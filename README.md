@@ -1,3 +1,14 @@
-# Web Development Project
+# Project--Web Development Bootcamp
 
-Repo used for learning web development from its bascis, with HTML + CSS and JavaScript
+This is a project made for improving my HTML + CSS skills
+
+## Authors
+
+- [Caique Sobral](https://www.github.com/caiquesobral)
+
+
+## Features
+
+- HTML
+- CSS
+- Javascript
